@@ -1,3 +1,4 @@
+package main
 package operators
 
 func Sum(a, b int) int {
